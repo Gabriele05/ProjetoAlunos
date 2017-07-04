@@ -24,8 +24,8 @@ void gotoxy(int coluna, int linha){
 char ponta_lado_esquerdo  = 218;
 char ponta_lado_direito   = 191;
 char centro_superior	  = 196;
-char lado				  = 179;
-char espaco				  = 32;
+char lado		  = 179;
+char espaco		  = 32;
 char ponta_baixo_esquerdo = 195;
 char ponta_baixo_direito  = 180;
 char baixo_esquerdo 	  = 192;
